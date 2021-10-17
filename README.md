@@ -5,7 +5,7 @@ The purpose of this program is for the user to query the recommended oil viscosi
 
 When the program is run for the first time, it will create a small table of cars with the following rows:
 
-	   		 2016, 'Ford', 'Fiesta', '5W-20;
+	   		2016, 'Ford', 'Fiesta', '5W-20;
 			
 			2012, 'Honda', 'Accord', '0W-20'
 			
