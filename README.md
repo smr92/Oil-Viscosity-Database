@@ -18,10 +18,13 @@ When the program is run for the first time, it will create a small table of cars
 There will be a simple GUI with a JComboBox at the toolbar, from which the user may select three modes: Query, populate record or delete record.
 
 Query Mode
+
 In query mode, the user may enter a car's year, make and model, and upon pushing the button below, an undeitable text field will display the recommended viscosity, provided that the record exists. (N.B: As of this version, the user's entries are case sensitive).
 
 Populate Mode
+
 In populate mode, the user may enter a car's year, make, model and viscosity to create a new row in the table. This record will also be queryable upon valid entry.
 
 Delete Mode
+
 In delete mode, the user, as in query mode, will enter a car's year, make and model. If the record exists, it will delete.
